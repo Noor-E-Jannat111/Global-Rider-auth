@@ -1,0 +1,28 @@
+.riders-detels {
+    /* text-align: center; */
+  
+    display:flex;
+    margin-top: 170px;
+    margin-left: 10px;
+    cursor:pointer;
+   
+  }
+  
+  .riders img {
+    width: 193px;
+    margin: 7px;
+    margin-left: 50px;
+  }
+  .riders h2{
+    text-align: center;
+  }
+  .riders{
+    background: white;
+    width: 300px;
+    height: 236px;
+    margin: auto;
+    border-radius: 18px;
+    box-shadow: 3px 14px 25px 0px darkgreen;
+    margin-left: 20px;
+   
+  }
